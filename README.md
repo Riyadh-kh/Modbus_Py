@@ -1,6 +1,6 @@
 # Modbus_py
 
-* This code is created to run on any machine, only requries to update the serial port
+* This code is only requries to update the serial port
 
 * Please run the code from WriteModbus.py the code runs concurrently
 
